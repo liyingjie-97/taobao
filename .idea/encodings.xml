@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/taobao_basic_parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/taobao_basic_parent/taobao_basic_util" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/taobao_eureka_7001" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/taobao_plat_parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/taobao_plat_parent/taobao_plat_interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/taobao_plat_parent/taobao_plat_service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/taobao_zuul_server_9527" charset="UTF-8" />
+  </component>
+</project>

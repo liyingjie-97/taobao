@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/taobao.iml" filepath="$PROJECT_DIR$/taobao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/taobao_basic_parent/taobao_basic_parent.iml" filepath="$PROJECT_DIR$/taobao_basic_parent/taobao_basic_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/taobao_basic_parent/taobao_basic_util/taobao_basic_util.iml" filepath="$PROJECT_DIR$/taobao_basic_parent/taobao_basic_util/taobao_basic_util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/taobao_eureka_7001/taobao_eureka_7001.iml" filepath="$PROJECT_DIR$/taobao_eureka_7001/taobao_eureka_7001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/taobao_plat_parent/taobao_plat_interface/taobao_plat_interface.iml" filepath="$PROJECT_DIR$/taobao_plat_parent/taobao_plat_interface/taobao_plat_interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/taobao_plat_parent/taobao_plat_parent.iml" filepath="$PROJECT_DIR$/taobao_plat_parent/taobao_plat_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/taobao_plat_parent/taobao_plat_service/taobao_plat_service.iml" filepath="$PROJECT_DIR$/taobao_plat_parent/taobao_plat_service/taobao_plat_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/taobao_zuul_server_9527/taobao_zuul_server_9527.iml" filepath="$PROJECT_DIR$/taobao_zuul_server_9527/taobao_zuul_server_9527.iml" />
+    </modules>
+  </component>
+</project>
