@@ -1,7 +1,7 @@
 spring:
   cloud:
     config:
-      name: application-plat-server #github上面名称
+      name: application-plat-service #github上面名称
       profile: dev #环境
       label: master #分支
       uri: http://127.0.0.1:8848 #配置服务器
