@@ -2,6 +2,7 @@ package cn.fs.taobao;
 
 public class AjaxResult {
 
+
     //是否成功
     private Boolean success;
     //错误信息
