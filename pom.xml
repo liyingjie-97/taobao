@@ -15,6 +15,7 @@
         <module>taobao_zuul_server_9527</module>
         <module>taobao_config_server_8848</module>
         <module>taobao_product_parent</module>
+        <module>taobao_util_generator</module>
     </modules>
 
     <properties>

@@ -13,6 +13,7 @@
         <module name="taobao_plat_service" />
         <module name="taobao_product_interface" />
         <module name="taobao_product_service" />
+        <module name="taobao_util_generator" />
         <module name="taobao_zuul_server_9527" />
       </profile>
     </annotationProcessing>
@@ -28,6 +29,7 @@
       <module name="taobao_product_interface" target="1.8" />
       <module name="taobao_product_parent" target="1.8" />
       <module name="taobao_product_service" target="1.8" />
+      <module name="taobao_util_generator" target="1.8" />
       <module name="taobao_zuul_server_9527" target="1.8" />
     </bytecodeTargetLevel>
   </component>

@@ -20,8 +20,8 @@ public class Swagger2 {
         return new Docket(DocumentationType.SWAGGER_2)
                 .apiInfo(apiInfo())
                 .select()
+                //对外暴露服务的包,以controller的方式暴露,所以就是controller的包.
                 .apis(RequestHandlerSelectors.basePackage("cn.fs.taobao.controller"))
-                //包：就是自己接口的包路径
                 .paths(PathSelectors.any())
                 .build();
     }
@@ -29,10 +29,10 @@ public class Swagger2 {
 
     private ApiInfo apiInfo() {
         return new ApiInfoBuilder()
-                .title("商品系统api")//名字
-                .description("商品系统接口文档说明")//额外藐视
+                .title("平台服务api")
+                .description("平台服务接口文档说明")
                 .contact(new Contact("lyj", "", "lyj@qq.com"))
-                .version("1.0")// 版本
+                .version("1.0")
                 .build();
     }
 
