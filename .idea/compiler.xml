@@ -7,21 +7,28 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="taobao_basic_util" />
+        <module name="taobao_config_server_8848" />
         <module name="taobao_eureka_7001" />
         <module name="taobao_plat_interface" />
         <module name="taobao_plat_service" />
+        <module name="taobao_product_interface" />
+        <module name="taobao_product_service" />
         <module name="taobao_zuul_server_9527" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="taobao" target="1.5" />
-      <module name="taobao_basic_parent" target="1.5" />
-      <module name="taobao_basic_util" target="1.5" />
-      <module name="taobao_eureka_7001" target="1.5" />
-      <module name="taobao_plat_interface" target="1.5" />
-      <module name="taobao_plat_parent" target="1.5" />
-      <module name="taobao_plat_service" target="1.5" />
-      <module name="taobao_zuul_server_9527" target="1.5" />
+      <module name="taobao" target="1.8" />
+      <module name="taobao_basic_parent" target="1.8" />
+      <module name="taobao_basic_util" target="1.8" />
+      <module name="taobao_config_server_8848" target="1.8" />
+      <module name="taobao_eureka_7001" target="1.8" />
+      <module name="taobao_plat_interface" target="1.8" />
+      <module name="taobao_plat_parent" target="1.8" />
+      <module name="taobao_plat_service" target="1.8" />
+      <module name="taobao_product_interface" target="1.8" />
+      <module name="taobao_product_parent" target="1.8" />
+      <module name="taobao_product_service" target="1.8" />
+      <module name="taobao_zuul_server_9527" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
